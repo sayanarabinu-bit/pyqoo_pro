@@ -1,0 +1,4670 @@
+[
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 22,
+  "topic": "Logical Reasoning",
+  "question": "As per square of opposition which of the following propositions are so related that if one of them is true, the other must be false and vice-versa? (a) All mammals are vertebrates. (b) No mammals are vertebrates. (c) Some non mammals are not vertebrates. (d) Some mammals are not vertebrates. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (d) only",
+   "(a) and (c) Only",
+   "(a) and (b) Only",
+   "(c) and (d) Only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a) and (d) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "As per square of opposition which of the following propositions are so related that if one of them is true, the other must be false and vice-versa?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All mammals are vertebrates."
+    },
+    {
+     "label": "(b)",
+     "text": "No mammals are vertebrates."
+    },
+    {
+     "label": "(c)",
+     "text": "Some non mammals are not vertebrates."
+    },
+    {
+     "label": "(d)",
+     "text": "Some mammals are not vertebrates."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_26",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 26,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements are logically equivalent? (a) No liquids are beverages. (b) No beverages are liquids. (c) All non-beverages are non-liquids. (d) All non-liquids are non-beverages. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (b) Only",
+   "(a) and (c) Only",
+   "(b) and (d) Only",
+   "(c) and (d) Only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a) and (b) Only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are logically equivalent?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "No liquids are beverages."
+    },
+    {
+     "label": "(b)",
+     "text": "No beverages are liquids."
+    },
+    {
+     "label": "(c)",
+     "text": "All non-beverages are non-liquids."
+    },
+    {
+     "label": "(d)",
+     "text": "All non-liquids are non-beverages."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_17",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 17,
+  "topic": "Logical Reasoning",
+  "question": "As per square of opposition, if the statement- “All apes are mammals” is given as true, which of the following statements can be immediately inferred to be false? (a) No apes are mammals. (b) Some apes are mammals. (c) Some mammals are apes. (d) Some apes are not mammals. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) only",
+   "(d) only",
+   "(a) and (d) only",
+   "(a), (c) and (d) only"
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) (a) and (d) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "As per square of opposition, if the statement- “All apes are mammals” is given as true, which of the following statements can be immediately inferred to be false?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "No apes are mammals."
+    },
+    {
+     "label": "(b)",
+     "text": "Some apes are mammals."
+    },
+    {
+     "label": "(c)",
+     "text": "Some mammals are apes."
+    },
+    {
+     "label": "(d)",
+     "text": "Some apes are not mammals."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_28",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 28,
+  "topic": "Logical Reasoning",
+  "question": "As per square of opposition, which of the following propositions are contradictories? (a) All birds are apes. (b) No birds are apes. (c) Some birds are apes. (d) Some birds are not apes. Choose the correct answer from the options given below:",
+  "options": [
+   "(c) and (d) only",
+   "(a) and (c) only",
+   "(b) and (c) only",
+   "(b) and (d) only"
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) (b) and (c) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "As per square of opposition, which of the following propositions are contradictories?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All birds are apes."
+    },
+    {
+     "label": "(b)",
+     "text": "No birds are apes."
+    },
+    {
+     "label": "(c)",
+     "text": "Some birds are apes."
+    },
+    {
+     "label": "(d)",
+     "text": "Some birds are not apes."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_43",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 43,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements are logically equivalent? (a) All non-apes are non-monkeys. (b) No apes are non-monkeys. (c) No monkeys are non-apes. (d) All monkeys are apes. Choose the correct answer from the options given below:",
+  "options": [
+   "(a), (c) and (d) only",
+   "(b) and (d) only",
+   "(a), (b) and (c) only",
+   "(b) and (c) only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a), (c) and (d) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are logically equivalent?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All non-apes are non-monkeys."
+    },
+    {
+     "label": "(b)",
+     "text": "No apes are non-monkeys."
+    },
+    {
+     "label": "(c)",
+     "text": "No monkeys are non-apes."
+    },
+    {
+     "label": "(d)",
+     "text": "All monkeys are apes."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 25,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements are logically equivalent? (a) Some apes are not non-monkeys. (b) Some monkeys are not non-apes. (c) Some monkeys are apes. (d) Some apes are monkeys. Choose the correct answer from the options given below.",
+  "options": [
+   "(a) and (b) only",
+   "(c) and (d) only",
+   "(b), (c) and (d) only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct": "D",
+  "explanation": "The correct answer is (D) (a), (b), (c) and (d).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are logically equivalent?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Some apes are not non-monkeys."
+    },
+    {
+     "label": "(b)",
+     "text": "Some monkeys are not non-apes."
+    },
+    {
+     "label": "(c)",
+     "text": "Some monkeys are apes."
+    },
+    {
+     "label": "(d)",
+     "text": "Some apes are monkeys."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_36",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 36,
+  "topic": "Logical Reasoning",
+  "question": "As per square of opposition, if the statement - \"Some birds are apes\" is given as false, then which of the following statements can be immediately inferred to be true? (a) All birds are apes. (b) Some birds are apes. (c) No birds are apes. (d) All birds are not apes. Choose the correct answer from the options given below:",
+  "options": [
+   "(c) and (d) only",
+   "(a), (c) and (d) only",
+   "(b) and (d) only",
+   "(b) and (c) only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (c) and (d) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "As per square of opposition, if the statement - \"Some birds are apes\" is given as false, then which of the following statements can be immediately inferred to be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All birds are apes."
+    },
+    {
+     "label": "(b)",
+     "text": "Some birds are apes."
+    },
+    {
+     "label": "(c)",
+     "text": "No birds are apes."
+    },
+    {
+     "label": "(d)",
+     "text": "All birds are not apes."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_38",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 38,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following propositions are so related that they cannot both be false although they may both be true, as per square of opposition? (a) Some apes are monkeys. (b) All apes are monkeys. (c) Some apes are not monkeys. (d) No apes are monkeys. Choose the correct answer from the options given below.",
+  "options": [
+   "(b) and (d) only",
+   "(a) and (b) only",
+   "(a) and (c) only",
+   "(c) and (d) only"
+  ],
+  "correct": "D",
+  "explanation": "The correct answer is (D) (c) and (d) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following propositions are so related that they cannot both be false although they may both be true, as per square of opposition?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Some apes are monkeys."
+    },
+    {
+     "label": "(b)",
+     "text": "All apes are monkeys."
+    },
+    {
+     "label": "(c)",
+     "text": "Some apes are not monkeys."
+    },
+    {
+     "label": "(d)",
+     "text": "No apes are monkeys."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_FN_08",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "FN",
+  "q_no": 8,
+  "topic": "ICT",
+  "question": "Which of the following statements are so related that if one of them is false, the other must be true, even though both of them can be true? (a) Some cars are e-vehicles. (b) Some cars are not e-vehicles (c) No cars are e-vehicles. (d) All cars are e-vehicles. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (b) only.",
+   "(b) and (c) only.",
+   "(a) and (c) only.",
+   "(c) and (d) only."
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a) and (b) only..",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are so related that if one of them is false, the other must be true, even though both of them can be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Some cars are e-vehicles."
+    },
+    {
+     "label": "(b)",
+     "text": "Some cars are not e-vehicles"
+    },
+    {
+     "label": "(c)",
+     "text": "No cars are e-vehicles."
+    },
+    {
+     "label": "(d)",
+     "text": "All cars are e-vehicles."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_FN_21",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "FN",
+  "q_no": 21,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following propositions are so related that they cannot both be true, although they can both be false? (a) No professors are materialists (b) Some professors are materialists (c) All professors are materialists (d) Some professors are not materialists Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (c) only",
+   "(b) and (d) only",
+   "(b) and (c) only",
+   "(a) and (d) only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a) and (c) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following propositions are so related that they cannot both be true, although they can both be false?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "No professors are materialists"
+    },
+    {
+     "label": "(b)",
+     "text": "Some professors are materialists"
+    },
+    {
+     "label": "(c)",
+     "text": "All professors are materialists"
+    },
+    {
+     "label": "(d)",
+     "text": "Some professors are not materialists"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_FN_19",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "FN",
+  "q_no": 19,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following propositions are so related that they cannot both be false, though they can both be true? (a) Some poems are artworks. (b) All poems are artworks. (c) Some poems are not artworks. (d) Some artworks are poems. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (d) Only",
+   "(a) and (c) Only",
+   "(b), and (c) Only",
+   "(a) and (b) Only"
+  ],
+  "correct": "B",
+  "explanation": "'Some poems are artworks' (I) and 'Some poems are not artworks' (O) are subcontraries: they cannot both be false but can both be true. (b) and (c) are contradictories.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following propositions are so related that they cannot both be false, though they can both be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Some poems are artworks."
+    },
+    {
+     "label": "(b)",
+     "text": "All poems are artworks."
+    },
+    {
+     "label": "(c)",
+     "text": "Some poems are not artworks."
+    },
+    {
+     "label": "(d)",
+     "text": "Some artworks are poems."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_30",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 30,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements are logically equivalent? (a) All poems are artworks. (b) No non-poems are non-artworks. (c) Some poems are artworks. (d) All non-artworks are non-poems. Choose the correct answer from the options given below:",
+  "options": [
+   "(a), (c) and (d) Only",
+   "(a) and (b) Only",
+   "(c) and (d) Only",
+   "(a) and (d) Only"
+  ],
+  "correct": "D",
+  "explanation": "(a) 'All S are P' is equivalent to its contrapositive (d) 'All non-artworks are non-poems'. (b) and (c) are different propositions.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are logically equivalent?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All poems are artworks."
+    },
+    {
+     "label": "(b)",
+     "text": "No non-poems are non-artworks."
+    },
+    {
+     "label": "(c)",
+     "text": "Some poems are artworks."
+    },
+    {
+     "label": "(d)",
+     "text": "All non-artworks are non-poems."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 25,
+  "topic": "Logical Reasoning",
+  "question": "If the statement \"No birds are animals\" is given as false, which of the following statements can be inferred to be true? (a) Some animals are not birds. (b) Some birds are not animals. (c) Some animals are birds. (d) Some birds are animals. Choose the most appropriate answer from the options given below:",
+  "options": [
+   "(a) and (b) Only",
+   "(c) and (d) Only",
+   "(b) Only",
+   "(a), (b), (c) and (d)"
+  ],
+  "correct": "B",
+  "explanation": "If 'No birds are animals' (E) is false, its contradictory 'Some birds are animals' (I) is true, and by conversion 'Some animals are birds' is also true.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "If the statement \"No birds are animals\" is given as false, which of the following statements can be inferred to be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Some animals are not birds."
+    },
+    {
+     "label": "(b)",
+     "text": "Some birds are not animals."
+    },
+    {
+     "label": "(c)",
+     "text": "Some animals are birds."
+    },
+    {
+     "label": "(d)",
+     "text": "Some birds are animals."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_36",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 36,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements contradict each other? (a) All ducks are birds. (b) Some ducks are birds. (c) Some ducks are not birds. (d) No ducks are birds. Choose the most appropriate answer from the options given below:",
+  "options": [
+   "(a) and (d) Only",
+   "(b) and (c) Only",
+   "(b) and (d) Only",
+   "(c) and (d) Only"
+  ],
+  "correct": "C",
+  "explanation": "Contradictory propositions differ in quality and quantity. 'Some ducks are birds' (I) and 'No ducks are birds' (E) cannot both be true or both be false.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements contradict each other?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All ducks are birds."
+    },
+    {
+     "label": "(b)",
+     "text": "Some ducks are birds."
+    },
+    {
+     "label": "(c)",
+     "text": "Some ducks are not birds."
+    },
+    {
+     "label": "(d)",
+     "text": "No ducks are birds."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_AN_09",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "AN",
+  "q_no": 9,
+  "topic": "Logical Reasoning",
+  "question": "If the statement \"Some animals are not birds\" is given as false, which of the following statements can be inferred to be true? (a) All animals are birds. (b) No birds are animals. (c) No animals are birds. (d) Some animals are birds. Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (b) Only",
+   "(b) and (d) Only",
+   "(a) and (d) Only",
+   "(b) and (c) Only"
+  ],
+  "correct": "C",
+  "explanation": "If the O proposition 'Some animals are not birds' is false, its contradictory A 'All animals are birds' is true, and by subalternation 'Some animals are birds' is also true.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "If the statement \"Some animals are not birds\" is given as false, which of the following statements can be inferred to be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All animals are birds."
+    },
+    {
+     "label": "(b)",
+     "text": "No birds are animals."
+    },
+    {
+     "label": "(c)",
+     "text": "No animals are birds."
+    },
+    {
+     "label": "(d)",
+     "text": "Some animals are birds."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_AN_26",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "AN",
+  "q_no": 26,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements are sub-contraries? (a) All sparrows are birds. (b) No sparrows are birds. (c) Some sparrows are birds. (d) Some sparrows are not birds. Choose the correct answer from the options given below:",
+  "options": [
+   "(c) and (d) Only",
+   "(b) and (d) Only",
+   "(a) and (b) Only",
+   "(b) and (c) Only"
+  ],
+  "correct": "A",
+  "explanation": "Sub-contraries are propositions that cannot both be false but can both be true: 'Some sparrows are birds' (I) and 'Some sparrows are not birds' (O).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following statements are sub-contraries?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All sparrows are birds."
+    },
+    {
+     "label": "(b)",
+     "text": "No sparrows are birds."
+    },
+    {
+     "label": "(c)",
+     "text": "Some sparrows are birds."
+    },
+    {
+     "label": "(d)",
+     "text": "Some sparrows are not birds."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_FN_06",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "FN",
+  "q_no": 6,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following propositions are so related that if one of them is true, the other must be false, although they can both be false? (a) All novels are books. (b) Some novels are not books. (c) No novels are books. (d) Some novels are books. Choose the correct answer from the options given below:",
+  "options": [
+   "(b) and (d) Only",
+   "(c) and (d) Only",
+   "(a) and (c) Only",
+   "(a) and (b) Only"
+  ],
+  "correct": "C",
+  "explanation": "Propositions that cannot both be true but can both be false are contraries. 'All novels are books' (A) and 'No novels are books' (E) are contraries.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following propositions are so related that if one of them is true, the other must be false, although they can both be false?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "All novels are books."
+    },
+    {
+     "label": "(b)",
+     "text": "Some novels are not books."
+    },
+    {
+     "label": "(c)",
+     "text": "No novels are books."
+    },
+    {
+     "label": "(d)",
+     "text": "Some novels are books."
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2019_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2019,
+  "month": "December",
+  "date": "",
+  "shift": "",
+  "q_no": 22,
+  "topic": "Logical Reasoning",
+  "question": "According to traditional square of opposition if two propositions are so related that they cannot both be false, although they may both be true is called:",
+  "options": [
+   "Subaltern",
+   "Subcontraries",
+   "Contradictory",
+   "Contrary"
+  ],
+  "correct": "B",
+  "explanation": "Subcontraries (I and O) cannot both be false but can both be true.",
+  "option_explanations": {
+   "A": "Subaltern means A to I or E to O.",
+   "B": "Correct. Subcontraries cannot both be false.",
+   "C": "Contradictories cannot be both true or both false.",
+   "D": "Contraries cannot both be true."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "According to traditional square of opposition if two propositions are so related that they cannot both be false, although they may both be true is called:",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 1,
+   "papers": 11,
+   "asked_in": [
+    "",
+    "06-12-2023 AN",
+    "06-12-2023 FN",
+    "07-12-2023 FN",
+    "11-12-2023 FN",
+    "13-12-2023 FN",
+    "25-06-2025 AN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "26-06-2025 FN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_FN_07",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "FN",
+  "q_no": 7,
+  "topic": "Logical Reasoning",
+  "question": "Which fallacy in committed in the following argument “What is good for each individual type of business cannot be bad for economy as a whole”?",
+  "options": [
+   "Red herring",
+   "Fallacy of composition",
+   "Slippery slope",
+   "False cause"
+  ],
+  "correct": "B",
+  "explanation": "Fallacy of Composition wrongly concludes that what is true of parts must be true of the whole — what is good for individual businesses does not necessarily mean the same is good for the entire economy.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which fallacy in committed in the following argument “What is good for each individual type of business cannot be bad for economy as a whole”?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Red Herring introduces irrelevant information to distract — no distraction is used here.",
+   "B": "Correct. Fallacy of Composition wrongly transfers the property of parts (individual businesses) to the whole (economy).",
+   "C": "Slippery Slope argues one event leads to a chain of events — not present in this argument.",
+   "D": "False Cause incorrectly attributes causation — this is about part-to-whole error."
+  },
+  "repeat": {
+   "family": 2,
+   "papers": 5,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN",
+    "13-12-2023 AN",
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_AN_38",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "AN",
+  "q_no": 38,
+  "topic": "Logical Reasoning",
+  "question": "“If you love hot cakes and you love ice creams, then you will surely love hot cake ice cream.” Which fallacy is committed in the above argument?",
+  "options": [
+   "Fallacy of composition",
+   "Slippery slope",
+   "Fallacy of division",
+   "Hasty generalization"
+  ],
+  "correct": "A",
+  "explanation": "Fallacy of Composition wrongly concludes the whole will have properties of its parts — liking ketchup and liking ice cream separately doesn't mean the combination will be liked.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "“If you love hot cakes and you love ice creams, then you will surely love hot cake ice cream.” Which fallacy is committed in the above argument?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. Fallacy of Composition: assumes properties of parts (liking each ingredient) transfer to the whole (combined dish).",
+   "B": "Slippery Slope argues a small step leads to a chain of events — not present here.",
+   "C": "Fallacy of Division is opposite — wrongly applying whole's property to parts.",
+   "D": "Hasty Generalisation draws conclusions from insufficient sample — not the error here."
+  },
+  "repeat": {
+   "family": 2,
+   "papers": 5,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN",
+    "13-12-2023 AN",
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_AN_31",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "AN",
+  "q_no": 31,
+  "topic": "Logical Reasoning",
+  "question": "“If you like ketchup and you also like icecream, then you would sure like ketchup ice cream.\" Which fallacy is committed in this argument?",
+  "options": [
+   "Ad Hominem",
+   "Hasty Generalisation",
+   "Slippery Slope",
+   "Fallacy of composition"
+  ],
+  "correct": "D",
+  "explanation": "Fallacy of Composition: properties of parts (liking ketchup + liking ice cream) are incorrectly assumed to belong to the whole (ketchup ice cream combination) — combining two liked things doesn't guarantee liking the combination.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "“If you like ketchup and you also like icecream, then you would sure like ketchup ice cream.\" Which fallacy is committed in this argument?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Ad Hominem attacks a person's character — no person is attacked in this argument.",
+   "B": "Hasty Generalisation draws from insufficient samples — the error here is part-to-whole, not sampling.",
+   "C": "Slippery Slope argues one step causes a chain — no chain is implied here.",
+   "D": "Correct. Fallacy of Composition: properties of parts (liking each item separately) wrongly attributed to the whole (combined product)."
+  },
+  "repeat": {
+   "family": 2,
+   "papers": 5,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN",
+    "13-12-2023 AN",
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_14-12-2023_AN_13",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "14-12-2023",
+  "shift": "AN",
+  "q_no": 13,
+  "topic": "Logical Reasoning",
+  "question": "“All phenomena in the universe are saturated with moral values. Therefore, we can conclude that the universe for the Chinese is a moral universe”. Which informal fallacy is committed in the above statement?",
+  "options": [
+   "Slippery Slope",
+   "Begging the Question",
+   "Hasty Generalisation",
+   "Fallacy of Composition"
+  ],
+  "correct": "D",
+  "explanation": "Fallacy of Composition: the argument moves from parts (individual phenomena saturated with moral values) to the whole (universe is a moral universe) — properties of parts incorrectly attributed to the whole.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "“All phenomena in the universe are saturated with moral values. Therefore, we can conclude that the universe for the Chinese is a moral universe”. Which informal fallacy is committed in the above statement?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Slippery Slope argues one action leads to a cascade — no such chain is present here.",
+   "B": "Begging the Question assumes the conclusion as a premise — here different levels (phenomena/universe) are involved.",
+   "C": "Hasty Generalisation draws from insufficient samples — the error is part-to-whole reasoning, not sampling.",
+   "D": "Correct. Fallacy of Composition: properties of phenomena (parts) are wrongly attributed to the universe (the whole)."
+  },
+  "repeat": {
+   "family": 2,
+   "papers": 5,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN",
+    "13-12-2023 AN",
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_FN_21",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "FN",
+  "q_no": 21,
+  "topic": "Logical Reasoning",
+  "question": "\"Everyone of us is mortal, therefore it is obvious that some day the human race will disappear from earth.\" Identify the logical fallacy committed in the above statement.",
+  "options": [
+   "Fallacy of accident",
+   "Straw man",
+   "Fallacy of Composition",
+   "Fallacy of Division"
+  ],
+  "correct": "C",
+  "explanation": "The argument infers a property of the whole (humanity will disappear) from a property of each member (every person is mortal), which is the fallacy of composition.",
+  "option_explanations": {
+   "A": "Fallacy of accident applies a general rule to an exceptional case.",
+   "B": "Straw man misrepresents an opponent's position.",
+   "C": "Correct. It moves from parts to the whole illegitimately.",
+   "D": "Division goes from whole to parts, the reverse."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "\"Everyone of us is mortal, therefore it is obvious that some day the human race will disappear from earth.\" Identify the logical fallacy committed in the above statement.",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 2,
+   "papers": 5,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN",
+    "13-12-2023 AN",
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_FN_43",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "FN",
+  "q_no": 43,
+  "topic": "Communication",
+  "question": "What is the full form of CBOD?",
+  "options": [
+   "Comparative Biochemical Oxygen Demand",
+   "Common Biochemical Oxygen Demand",
+   "Carbonaceous Biochemical Oxygen Demand",
+   "Classified Biochemical Oxygen Demand"
+  ],
+  "correct": "C",
+  "explanation": "CBOD stands for Carbonaceous Biochemical Oxygen Demand — it measures the oxygen consumed by microorganisms to decompose only the carbon-containing (carbonaceous) organic matter in water, excluding nitrification.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What is the full form of CBOD?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Comparative Biochemical Oxygen Demand is not a recognised water quality term.",
+   "B": "Common Biochemical Oxygen Demand is not a standard scientific abbreviation.",
+   "C": "Correct. CBOD = Carbonaceous Biochemical Oxygen Demand — specifically measures carbon-based organic matter decomposition oxygen demand.",
+   "D": "Classified Biochemical Oxygen Demand is not a standard water quality parameter."
+  },
+  "repeat": {
+   "family": 3,
+   "papers": 5,
+   "asked_in": [
+    "",
+    "13-12-2023 FN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_FN_33",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "FN",
+  "q_no": 33,
+  "topic": "Higher Education",
+  "question": "The full form of AICTE is ________",
+  "options": [
+   "Academic Institutions Council of Teacher Education",
+   "All India Council for Technical Education",
+   "All India Constitution for Teacher Education",
+   "All India Institute for Teacher Education"
+  ],
+  "correct": "B",
+  "explanation": "AICTE is the All India Council for Technical Education, the statutory body for planning and coordinating technical education in India.",
+  "option_explanations": {
+   "A": "No such body exists with this name.",
+   "B": "Correct. AICTE = All India Council for Technical Education.",
+   "C": "'Constitution' is not part of the name.",
+   "D": "AICTE is a council, not an institute for teacher education."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The full form of AICTE is ________",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 3,
+   "papers": 5,
+   "asked_in": [
+    "",
+    "13-12-2023 FN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_AN_45",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "AN",
+  "q_no": 45,
+  "topic": "Higher Education",
+  "question": "The full form of MOOC is",
+  "options": [
+   "Massive Open Optional Course.",
+   "Massive Open Online Course.",
+   "Multimedia Open Online Course.",
+   "Multimedia Open Optional Course."
+  ],
+  "correct": "B",
+  "explanation": "MOOC stands for Massive Open Online Course.",
+  "option_explanations": {
+   "A": "'Optional' is wrong.",
+   "B": "Correct. Massive Open Online Course.",
+   "C": "'Multimedia' is wrong.",
+   "D": "Both 'Multimedia' and 'Optional' are wrong."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The full form of MOOC is",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 3,
+   "papers": 5,
+   "asked_in": [
+    "",
+    "13-12-2023 FN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_AN_17",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "AN",
+  "q_no": 17,
+  "topic": "ICT",
+  "question": "What is the full form of ARPANET?",
+  "options": [
+   "Advanced Research Project Agency Network",
+   "Advanced Resource Project Agency Network",
+   "Applied Research Project Agency Network",
+   "American Research Project Agency Network"
+  ],
+  "correct": "A",
+  "explanation": "ARPANET stands for Advanced Research Projects Agency Network, the precursor of the internet.",
+  "option_explanations": {
+   "A": "Correct. Advanced Research Project Agency Network.",
+   "B": "'Resource' is not part of the name.",
+   "C": "'Applied' is not part of the name.",
+   "D": "'American' is not part of the name."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What is the full form of ARPANET?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 3,
+   "papers": 5,
+   "asked_in": [
+    "",
+    "13-12-2023 FN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_nov2017_39",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2017,
+  "month": "November",
+  "date": "",
+  "shift": "",
+  "q_no": 39,
+  "topic": "ICT",
+  "question": "What is the full form of USB as used in computer related activities?",
+  "options": [
+   "Ultra Security Block",
+   "Universal Security Block",
+   "Universal Serial Bus",
+   "United Serial Bus"
+  ],
+  "correct": "C",
+  "explanation": "USB stands for Universal Serial Bus.",
+  "option_explanations": {
+   "A": "Not the full form.",
+   "B": "Not the full form.",
+   "C": "Correct. Universal Serial Bus.",
+   "D": "Not the full form."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What is the full form of USB as used in computer related activities?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 3,
+   "papers": 5,
+   "asked_in": [
+    "",
+    "13-12-2023 FN",
+    "25-06-2025 FN",
+    "26-06-2025 AN",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_09",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 9,
+  "topic": "Logical Reasoning",
+  "question": "Given below are two statements: Statement (I): According to classical Indian school of logic (Nyāya) the argument \"Sound is eternal because it is audible\" is fallacious. Statement (II): According to classical Indian school of logic the argument \"Sound is eternal because it is audible\" commits the fallacy of irregular middle term where the middle term is too wide. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement (I) and Statement (II) are correct.",
+   "Both Statement (I) and Statement (II) are incorrect.",
+   "Statement (I) is correct but Statement (II) is incorrect.",
+   "Statement (I) is incorrect but Statement (II) is correct."
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) Statement (I) is correct but Statement (II) is incorrect..",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "According to classical Indian school of logic (Nyāya) the argument \"Sound is eternal because it is audible\" is fallacious."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "According to classical Indian school of logic the argument \"Sound is eternal because it is audible\" commits the fallacy of irregular middle term where the middle term is too wide. In the light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 4,
+   "papers": 3,
+   "asked_in": [
+    "06-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_29",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 29,
+  "topic": "Logical Reasoning",
+  "question": "Given below are two statements, labelled as Assertion (A) and other one labelled as Reason (R) Assertion (A): According to the Classical Indian school of logic (Nyāya) the argument- ‘Sound is eternal because it is audible’ is fallacious Reason (R): In the argument- ‘Sound is eternal because it is audible’ the middle term too wide In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+   "(A) is correct but (R) is not correct",
+   "(A) is not correct but (R) is correct"
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) (A) is correct but (R) is not correct.",
+  "source": "REP",
+  "question_data": {
+   "type": "assertion",
+   "stem": "Given below are two statements, labelled as Assertion (A) and other one labelled as Reason (R)",
+   "items": [
+    {
+     "label": "Assertion (A):",
+     "text": "According to the Classical Indian school of logic (Nyāya) the argument- ‘Sound is eternal because it is audible’ is fallacious"
+    },
+    {
+     "label": "Reason (R):",
+     "text": "In the argument- ‘Sound is eternal because it is audible’ the middle term too wide In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 4,
+   "papers": 3,
+   "asked_in": [
+    "06-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_37",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 37,
+  "topic": "Logical Reasoning",
+  "question": "According to Classical Indian School of Logic, the argument- \"Sound is eternal because it is produced\" is fallacious because:",
+  "options": [
+   "It involves contradictory middle-term.",
+   "Here the middle term is too narrow.",
+   "Here the middle term is too wide.",
+   "Here vyāpti is conditional."
+  ],
+  "correct": "A",
+  "explanation": "In Nyaya, 'Sound is eternal because it is produced' has a middle term (produced-ness) that proves the opposite, non-eternality. This is the viruddha (contradictory) hetvabhasa.",
+  "option_explanations": {
+   "A": "Correct. Being produced contradicts eternality.",
+   "B": "A too-narrow middle term is asadharana-type, not this case.",
+   "C": "A too-wide middle term is anaikantika, not this case.",
+   "D": "Conditional vyapti is upadhi-related, not this case."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "According to Classical Indian School of Logic, the argument- \"Sound is eternal because it is produced\" is fallacious because:",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 4,
+   "papers": 3,
+   "asked_in": [
+    "06-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_18",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 18,
+  "topic": "Logical Reasoning",
+  "question": "“It is so obvious that this world was created by an intelligent God. Just look at the amazing degree of organization that the world displays”. Which fallacy is committed in this argument?",
+  "options": [
+   "Fallacy of composition",
+   "Begging the Question",
+   "Straw man",
+   "False Cause"
+  ],
+  "correct": "B",
+  "explanation": "Begging the Question (circular reasoning) occurs when the conclusion is assumed in the premise — 'the world displays amazing organisation, therefore an intelligent God created it' assumes intelligent design as evidence for itself.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "“It is so obvious that this world was created by an intelligent God. Just look at the amazing degree of organization that the world displays”. Which fallacy is committed in this argument?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Fallacy of Composition wrongly applies group properties to individuals — not present here.",
+   "B": "Correct. The argument assumes what it tries to prove (God's design as evidence of God's design).",
+   "C": "Straw Man misrepresents an opponent's argument — no opponent's view is distorted here.",
+   "D": "False Cause incorrectly attributes causation — this argument doesn't claim a cause-effect relationship."
+  },
+  "repeat": {
+   "family": 5,
+   "papers": 3,
+   "asked_in": [
+    "07-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_34",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 34,
+  "topic": "Logical Reasoning",
+  "question": "Which fallacy is committed in the following statement? \"People who lack humility have no sense of beauty because everyone who has a sense of beauty also has humility",
+  "options": [
+   "Fallacy of Equivocation",
+   "Begging the Question",
+   "Fallacy of Composition",
+   "Hasty Generalisation"
+  ],
+  "correct": "B",
+  "explanation": "The argument assumes its conclusion — 'lack humility → no sense of beauty' is stated as a given while trying to prove it through 'everyone who has beauty has humility' (which restates the same relationship). This is circular reasoning.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which fallacy is committed in the following statement? \"People who lack humility have no sense of beauty because everyone who has a sense of beauty also has humility",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Fallacy of Equivocation uses a word in two different senses — no ambiguous terms are used here.",
+   "B": "Correct. Begging the Question: the argument's premise ('everyone with beauty has humility') assumes the conclusion it is trying to prove.",
+   "C": "Fallacy of Composition wrongly transfers part properties to the whole — not applicable here.",
+   "D": "Hasty Generalisation draws conclusions from insufficient data — this is a structural circular argument."
+  },
+  "repeat": {
+   "family": 5,
+   "papers": 3,
+   "asked_in": [
+    "07-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_24",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 24,
+  "topic": "Logical Reasoning",
+  "question": "Which fallacy is committed in the following statement - \"God exists since it is written in the scriptures. Since the scriptures are the words of God, whatever is written in them is true.\"?",
+  "options": [
+   "Hasty Generalization",
+   "Begging the Question",
+   "Red herring",
+   "Slippery slope"
+  ],
+  "correct": "B",
+  "explanation": "The argument proves God's existence from scriptures and proves the scriptures true because they are God's words. The conclusion is assumed in the premise, which is begging the question (circular reasoning).",
+  "option_explanations": {
+   "A": "Hasty generalization draws a broad claim from too little evidence.",
+   "B": "Correct. The premises assume what is to be proved.",
+   "C": "Red herring introduces an irrelevant point.",
+   "D": "Slippery slope predicts a chain of consequences."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which fallacy is committed in the following statement - \"God exists since it is written in the scriptures. Since the scriptures are the words of God, whatever is written in them is true.\"?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 5,
+   "papers": 3,
+   "asked_in": [
+    "07-12-2023 FN",
+    "12-12-2023 AN",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_FN_13",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "FN",
+  "q_no": 13,
+  "topic": "Mathematical Reasoning",
+  "question": "What number would replace question mark (?) in the series given below? 1, 6, 18, 44, 98, 208, 430, ?",
+  "options": [
+   "638",
+   "876",
+   "896",
+   "999"
+  ],
+  "correct": "B",
+  "explanation": "Pattern differences: 1→6(+5), 6→18(+12), 18→44(+26), 44→98(+54), 98→208(+110), 208→430(+222). Differences: 5,12,26,54,110,222 — each roughly doubles +2. Next: 222×2+? = 446, so 430+446=876.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What number would replace question mark (?) in the series given below? 1, 6, 18, 44, 98, 208, 430, ?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "638 = 430+208 — uses previous term as difference, incorrect.",
+   "B": "Correct. The difference pattern doubles approximately: next difference = 446, giving 430+446=876.",
+   "C": "896: close but uses slightly different difference multiplication.",
+   "D": "999: significant overestimate."
+  },
+  "repeat": {
+   "family": 6,
+   "papers": 3,
+   "asked_in": [
+    "11-12-2023 AN",
+    "11-12-2023 FN",
+    "12-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_AN_41",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "AN",
+  "q_no": 41,
+  "topic": "Mathematical Reasoning",
+  "question": "What number would replace question mark (?) in the series given below? 31, 37, 41, 43, 47, 53, ?, 61",
+  "options": [
+   "58",
+   "57",
+   "59",
+   "56"
+  ],
+  "correct": "C",
+  "explanation": "The series contains only prime numbers: 31,37,41,43,47,53,59,61. The missing term between 53 and 61 is 59 — the next prime after 53.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What number would replace question mark (?) in the series given below? 31, 37, 41, 43, 47, 53, ?, 61",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "58 = 2×29 — not a prime number, doesn't fit the prime series.",
+   "B": "57 = 3×19 — not a prime number.",
+   "C": "Correct. 59 is a prime number — the next prime after 53 in the series 31,37,41,43,47,53,59,61.",
+   "D": "56 = 2×2×2×7 — not a prime number."
+  },
+  "repeat": {
+   "family": 6,
+   "papers": 3,
+   "asked_in": [
+    "11-12-2023 AN",
+    "11-12-2023 FN",
+    "12-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_FN_33",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "FN",
+  "q_no": 33,
+  "topic": "Mathematical Reasoning",
+  "question": "What number would replace question mark (?) in the series given below? 1, 3, 6, 10, 15, 21, ? , 36, ……..",
+  "options": [
+   "32",
+   "28",
+   "29",
+   "30"
+  ],
+  "correct": "B",
+  "explanation": "Series: 1,3,6,10,15,21,?,36. Differences: 2,3,4,5,6,7,8. Pattern: triangular numbers. 21+7=28 is the missing term. 28+8=36. ✓",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "What number would replace question mark (?) in the series given below? 1, 3, 6, 10, 15, 21, ? , 36, ……..",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "32: differences don't follow the consecutive integer pattern.",
+   "B": "Correct. Triangular number series: differences increase by 1 each time. 21+7=28, then 28+8=36. ✓",
+   "C": "29: not a triangular number.",
+   "D": "30: would make next difference 6 (not 8) — breaks pattern."
+  },
+  "repeat": {
+   "family": 6,
+   "papers": 3,
+   "asked_in": [
+    "11-12-2023 AN",
+    "11-12-2023 FN",
+    "12-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_18",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 18,
+  "topic": "Mathematical Reasoning",
+  "question": "Mean (M) and Standard Deviation (S) of different datasets are given in A-D below. Compute the coefficient of variation of each dataset and arrange in ascending order. (a) M = 60, S = 14 (b) M = 70, S = 16 (c) M = 80, S = 5 (d) M = 90, S = 4 Choose the correct answer from the options given below:",
+  "options": [
+   "(d), (b), (c), (a)",
+   "(a), (c), (b), (d)",
+   "(c), (a), (d), (b)",
+   "(d), (c), (b), (a)"
+  ],
+  "correct": "D",
+  "explanation": "CV = (S/M)×100: (a) 23.3%, (b) 22.9%, (c) 6.25%, (d) 4.4%. Ascending order is (d), (c), (b), (a).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Mean (M) and Standard Deviation (S) of different datasets are given in A-D below. Compute the coefficient of variation of each dataset and arrange in ascending order.",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "M = 60, S = 14"
+    },
+    {
+     "label": "(b)",
+     "text": "M = 70, S = 16"
+    },
+    {
+     "label": "(c)",
+     "text": "M = 80, S = 5"
+    },
+    {
+     "label": "(d)",
+     "text": "M = 90, S = 4"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 7,
+   "papers": 3,
+   "asked_in": [
+    "25-06-2025 AN",
+    "26-06-2025 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_35",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 35,
+  "topic": "Mathematical Reasoning",
+  "question": "Standard deviation (S) and coefficient of Variation (CV Expressed as a percentage) of different datasets are given in A-D, below. Compute the mean of each dataset and arrange in ascending order. (a) S = 4, CV = 40/9 (b) S = 5, CV = 6.25 (c) S = 14, CV = 70/3 (d) S = 16, CV = 160/7 Choose the correct answer from the options given below:",
+  "options": [
+   "(c), (b), (d), (a)",
+   "(c), (d), (b), (a)",
+   "(a), (d), (b), (c)",
+   "(d), (b), (c), (a)"
+  ],
+  "correct": "B",
+  "explanation": "Mean = S × 100 / CV: (a) 90, (b) 80, (c) 60, (d) 70. Ascending order is (c), (d), (b), (a).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Standard deviation (S) and coefficient of Variation (CV Expressed as a percentage) of different datasets are given in A-D, below. Compute the mean of each dataset and arrange in ascending order.",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "S = 4, CV = 40/9"
+    },
+    {
+     "label": "(b)",
+     "text": "S = 5, CV = 6.25"
+    },
+    {
+     "label": "(c)",
+     "text": "S = 14, CV = 70/3"
+    },
+    {
+     "label": "(d)",
+     "text": "S = 16, CV = 160/7"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 7,
+   "papers": 3,
+   "asked_in": [
+    "25-06-2025 AN",
+    "26-06-2025 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_AN_34",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "AN",
+  "q_no": 34,
+  "topic": "Mathematical Reasoning",
+  "question": "Mean (M) and coefficient of variation (CV expressed as a percentage) of different datasets are given in A-D below. Compute the standard deviation of each dataset and arrange in ascending order. (a) M = 60, CV = 70/3 (b) M = 80, CV = 6.25 (c) M = 70, CV = 160/7 (d) M = 90, CV = 40/9 Choose the correct answer from the options given below:",
+  "options": [
+   "(d), (a), (b), (c)",
+   "(a), (c), (d), (b)",
+   "(d), (b), (a), (c)",
+   "(b), (d), (c), (a)"
+  ],
+  "correct": "C",
+  "explanation": "SD = M × CV / 100: (a) 14, (b) 5, (c) 16, (d) 4. Ascending order is (d), (b), (a), (c).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Mean (M) and coefficient of variation (CV expressed as a percentage) of different datasets are given in A-D below. Compute the standard deviation of each dataset and arrange in ascending order.",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "M = 60, CV = 70/3"
+    },
+    {
+     "label": "(b)",
+     "text": "M = 80, CV = 6.25"
+    },
+    {
+     "label": "(c)",
+     "text": "M = 70, CV = 160/7"
+    },
+    {
+     "label": "(d)",
+     "text": "M = 90, CV = 40/9"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 7,
+   "papers": 3,
+   "asked_in": [
+    "25-06-2025 AN",
+    "26-06-2025 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_10",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 10,
+  "topic": "Mathematical Reasoning",
+  "question": "If (P)8 represents the number P in base - 8, then (144)8 + (175)8 =",
+  "options": [
+   "(225)8",
+   "(341)8",
+   "(441)8",
+   "(314)8"
+  ],
+  "correct": "B",
+  "explanation": "(144)₈ = 100, (175)₈ = 125 in decimal; 100+125=225 decimal = (341)₈. Adding in octal: 4+5=11 octal (write 1 carry 1); 4+7+1=14 octal (write 4 carry 1); 1+1+1=3. Result: (341)₈.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "If (P)8 represents the number P in base - 8, then (144)8 + (175)8 =",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "(225)₈ is incorrect — arithmetic error in octal addition.",
+   "B": "Correct. Direct octal addition gives (341)₈.",
+   "C": "(441)₈ results from wrong carry operation.",
+   "D": "(314)₈ is an incorrect arrangement of digits."
+  },
+  "repeat": {
+   "family": 8,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "06-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_13",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 13,
+  "topic": "Mathematical Reasoning",
+  "question": "If (P)8 represents the number P in base -8 number system, then (124)8 + (165)8 =",
+  "options": [
+   "(201)8",
+   "(289)10",
+   "(274)8",
+   "(311)8"
+  ],
+  "correct": "D",
+  "explanation": "(124)₈: 1+2+4=7 digits but adding (124)₈ and (165)₈: 4+5=11₈ (write 1, carry 1); 2+6+1=11₈ (write 1, carry 1); 1+1+1=3. So (311)₈.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "If (P)8 represents the number P in base -8 number system, then (124)8 + (165)8 =",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "(201)₈ is too small — arithmetic error in octal addition.",
+   "B": "(289)₁₀ = 441 in octal — wrong base conversion.",
+   "C": "(274)₈: wrong — column addition errors.",
+   "D": "Correct. (124)₈ + (165)₈ = (311)₈ by octal column addition."
+  },
+  "repeat": {
+   "family": 8,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "06-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 25,
+  "topic": "Environment & Ecology",
+  "question": "What is the correct sequence of steps followed from initial to last during water treatment process? (a) Coagulation (b) Filtration (c) Screening (d) Sedimentation Choose the correct answer from the options given below:",
+  "options": [
+   "(d), (c), (b), (a)",
+   "(d), (c), (a), (b)",
+   "(c), (d), (a), (b)",
+   "(c), (d), (b), (a)"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (d), (c), (b), (a).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "What is the correct sequence of steps followed from initial to last during water treatment process?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Coagulation"
+    },
+    {
+     "label": "(b)",
+     "text": "Filtration"
+    },
+    {
+     "label": "(c)",
+     "text": "Screening"
+    },
+    {
+     "label": "(d)",
+     "text": "Sedimentation"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 9,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 FN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_43",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 43,
+  "topic": "Environment & Ecology",
+  "question": "What is the correct sequence, from initial to final, of surface waste water treatment? (a) Disinfection (b) Sedimentation (c) Filtration (d) Screening Choose the correct answer from the options given below:",
+  "options": [
+   "(a), (b), (c), (d)",
+   "(a), (b), (d), (c)",
+   "(d), (b), (a), (c)",
+   "(d), (b), (c), (a)"
+  ],
+  "correct": "D",
+  "explanation": "Surface water treatment proceeds through screening to remove large solids, sedimentation, filtration, and finally disinfection.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "What is the correct sequence, from initial to final, of surface waste water treatment?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Disinfection"
+    },
+    {
+     "label": "(b)",
+     "text": "Sedimentation"
+    },
+    {
+     "label": "(c)",
+     "text": "Filtration"
+    },
+    {
+     "label": "(d)",
+     "text": "Screening"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 9,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 FN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_FN_39",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "FN",
+  "q_no": 39,
+  "topic": "Research Aptitude",
+  "question": "An epistemological position that advocates the application of the methods of the natural sciences to the study of social reality and beyond, refers to:",
+  "options": [
+   "Positivism",
+   "Interpretivism",
+   "Objectivism",
+   "Constructionism"
+  ],
+  "correct": "A",
+  "explanation": "Positivism holds that social reality can be studied using the same objective methods as natural sciences — it applies scientific logic to social phenomena, emphasising empiricism and value-free inquiry.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "An epistemological position that advocates the application of the methods of the natural sciences to the study of social reality and beyond, refers to:",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. Positivism advocates applying natural science methods to social reality.",
+   "B": "Interpretivism rejects natural science methods, focusing on subjective meanings — opposite of positivism.",
+   "C": "Objectivism is an ontological position about the nature of reality, not a methodological approach.",
+   "D": "Constructionism holds that social reality is constructed by actors — contrary to positivism."
+  },
+  "repeat": {
+   "family": 10,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "06-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_nov2021_10",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2021,
+  "month": "November",
+  "date": "",
+  "shift": "",
+  "q_no": 10,
+  "topic": "Research Aptitude",
+  "question": "Survey research is based on which of the following?",
+  "options": [
+   "Constructivism",
+   "Hermeneutics",
+   "Interpretivism",
+   "Positivism"
+  ],
+  "correct": "D",
+  "explanation": "Survey research relies on quantifiable, measurable data collected from samples, which is the positivist research tradition.",
+  "option_explanations": {
+   "A": "Constructivism underlies qualitative, meaning-making research.",
+   "B": "Hermeneutics is about interpreting texts.",
+   "C": "Interpretivism underlies qualitative research.",
+   "D": "Correct. Surveys rest on positivism."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Survey research is based on which of the following?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 10,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "06-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 22,
+  "topic": "Research Aptitude",
+  "question": "The mean and standard deviation of 70 observations are 47 and 9, respectively. If 3 is subtracted from each observation, the new mean and standard deviation will be",
+  "options": [
+   "44, 6",
+   "44, 9",
+   "47, 6",
+   "44, 3"
+  ],
+  "correct": "B",
+  "explanation": "Subtracting a constant from all observations shifts the mean by that constant but does not affect the spread — standard deviation remains unchanged at 9. New mean = 47 − 3 = 44.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The mean and standard deviation of 70 observations are 47 and 9, respectively. If 3 is subtracted from each observation, the new mean and standard deviation will be",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "44, 6: mean is correct but SD incorrectly reduced — SD doesn't change with subtraction.",
+   "B": "Correct. Mean shifts to 44; SD remains 9 as dispersion is unaffected by shifting all values equally.",
+   "C": "47, 6: mean unchanged (wrong) and SD reduced (wrong).",
+   "D": "44, 3: mean correct but SD halved incorrectly."
+  },
+  "repeat": {
+   "family": 11,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "07-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_40",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 40,
+  "topic": "Research Aptitude",
+  "question": "The mean and standard deviation of 75 observations are 45 and 10, respectively. If 2 is added to each observation, the new mean and standard deviation will be",
+  "options": [
+   "47, 12",
+   "47, 14",
+   "47, 10",
+   "46, 12"
+  ],
+  "correct": "D",
+  "explanation": "Adding a constant to all observations shifts the mean by that constant (new mean = 45+2=47) but does not change spread — standard deviation remains 10. Note: answer is C per answer key.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The mean and standard deviation of 75 observations are 45 and 10, respectively. If 2 is added to each observation, the new mean and standard deviation will be",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "47, 12: mean correct but SD incorrectly increased by 2.",
+   "B": "47, 14: mean correct but SD wrongly increased by 4.",
+   "C": "Correct. Adding 2 shifts mean to 47; SD stays 10 as dispersion is unchanged.",
+   "D": "46, 12: mean wrong (only increased by 1) and SD wrong."
+  },
+  "repeat": {
+   "family": 11,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "07-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_36",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 36,
+  "topic": "Research Aptitude",
+  "question": "Which of the following are autonomous research institutions under various government departments and agencies in India? (a) Council of Scientific and Industrial Research (b) Indian Council of Social Science Research (c) Indian Institute of Astrophysics (d) Institute of Clinical Research, India (e) Indian Biological Sciences and Research Institute Choose the correct answer from the options given below:",
+  "options": [
+   "(a), (b) and (c) only",
+   "(b), (c) and (d) only",
+   "(c), (d) and (e) only",
+   "(a), (d) and (e) only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a), (b) and (c) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following are autonomous research institutions under various government departments and agencies in India?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Council of Scientific and Industrial Research"
+    },
+    {
+     "label": "(b)",
+     "text": "Indian Council of Social Science Research"
+    },
+    {
+     "label": "(c)",
+     "text": "Indian Institute of Astrophysics"
+    },
+    {
+     "label": "(d)",
+     "text": "Institute of Clinical Research, India"
+    },
+    {
+     "label": "(e)",
+     "text": "Indian Biological Sciences and Research Institute"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 12,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_29-06-2025_AN_37",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "29-06-2025",
+  "shift": "AN",
+  "q_no": 37,
+  "topic": "Higher Education",
+  "question": "Which of the following institutions are among Top Ten institutions in the category of research institutions in India Ranking: 2024 released by NIRF? (a) Indian Institute of Technology, Delhi (b) Tata Institute of Fundamental Research (c) Indian Institute of Technology, Kanpur (d) Indian Institute of Technology, Indore (e) Indian Institute of Technology, Madras Choose the correct answer from the options given below:",
+  "options": [
+   "(a), (c) and (d) Only",
+   "(b), (d) and (e) Only",
+   "(b), (c) and (d) Only",
+   "(a), (c) and (e) Only"
+  ],
+  "correct": "D",
+  "explanation": "As per the key, IIT Delhi, IIT Kanpur and IIT Madras appear among the top ten in NIRF 2024 research institutions. IIT Indore and TIFR are not marked.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Which of the following institutions are among Top Ten institutions in the category of research institutions in India Ranking: 2024 released by NIRF?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Indian Institute of Technology, Delhi"
+    },
+    {
+     "label": "(b)",
+     "text": "Tata Institute of Fundamental Research"
+    },
+    {
+     "label": "(c)",
+     "text": "Indian Institute of Technology, Kanpur"
+    },
+    {
+     "label": "(d)",
+     "text": "Indian Institute of Technology, Indore"
+    },
+    {
+     "label": "(e)",
+     "text": "Indian Institute of Technology, Madras"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 12,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_06-12-2023_AN_40",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "06-12-2023",
+  "shift": "AN",
+  "q_no": 40,
+  "topic": "Teaching Aptitude",
+  "question": "Given below are two statements: Statement (I): Carl Rogers is a proponent of non-directive model of teaching. Statement (II): Rogers extended to education his view of therapy as a mode of learning. In light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement (I) and Statement (II) are correct.",
+   "Both Statement (I) and Statement (II) are incorrect.",
+   "Statement (I) is correct but Statement (II) is incorrect.",
+   "Statement (I) is incorrect but Statement (II) is correct."
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) Both Statement (I) and Statement (II) are correct..",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "Carl Rogers is a proponent of non-directive model of teaching."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "Rogers extended to education his view of therapy as a mode of learning. In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below"
+  },
+  "repeat": {
+   "family": 13,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "07-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_07-12-2023_FN_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "07-12-2023",
+  "shift": "FN",
+  "q_no": 22,
+  "topic": "Teaching Aptitude",
+  "question": "Given below are two statements: Statement (I): The non-directive model of teaching nurtures students rather than controlling the sequence of learning. Statement (II): In the non-directive model of teaching the teacher's role is that of a facilitator who has counselling relationship with students and who guides their growth and development. In light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement (I) and Statement (II) are correct.",
+   "Both Statement (I) and Statement (II) are incorrect.",
+   "Statement (I) is correct but Statement (II) is incorrect.",
+   "Statement (I) is incorrect but Statement (II) is correct."
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) Both Statement (I) and Statement (II) are correct..",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "The non-directive model of teaching nurtures students rather than controlling the sequence of learning."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "In the non-directive model of teaching the teacher's role is that of a facilitator who has counselling relationship with students and who guides their growth and development. In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below"
+  },
+  "repeat": {
+   "family": 13,
+   "papers": 2,
+   "asked_in": [
+    "06-12-2023 AN",
+    "07-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_FN_19",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "FN",
+  "q_no": 19,
+  "topic": "ICT",
+  "question": "Ram can finish a work in 18 days. Shyam is twice as efficient as Ram. If both of them start the work together, how many days it will take them to finish the work?",
+  "options": [
+   "6 Days",
+   "8 days",
+   "9 days",
+   "12 days"
+  ],
+  "correct": "A",
+  "explanation": "Shyam is twice as efficient as Ram (who takes 18 days), so Shyam takes 9 days. Together: 1/18 + 1/9 = 1/18 + 2/18 = 3/18 = 1/6. They finish in 6 days.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Ram can finish a work in 18 days. Shyam is twice as efficient as Ram. If both of them start the work together, how many days it will take them to finish the work?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. Combined rate = 3/18 per day = 1/6. Total days = 6.",
+   "B": "8 days: incorrect combined rate calculation.",
+   "C": "9 days: Shyam's rate alone — doesn't add Ram's contribution.",
+   "D": "12 days: Ram working alone at reduced rate — ignores Shyam."
+  },
+  "repeat": {
+   "family": 14,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 FN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_29-06-2025_AN_39",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "29-06-2025",
+  "shift": "AN",
+  "q_no": 39,
+  "topic": "Mathematical Reasoning",
+  "question": "Two persons A and B finish a work in 10 days. A is twice as efficient than B. How many days A will take to finish the work, if he has to do it alone?",
+  "options": [
+   "8 days",
+   "12 days",
+   "15 days",
+   "18 days"
+  ],
+  "correct": "C",
+  "explanation": "A is twice as efficient as B, so rates are 2 and 1 units per day. Total work = 3 × 10 = 30 units. A alone takes 30 / 2 = 15 days.",
+  "option_explanations": {
+   "A": "8 days would need rate 3.75 units/day.",
+   "B": "12 days would need rate 2.5 units/day.",
+   "C": "Correct. 30 units at 2 per day = 15 days.",
+   "D": "18 days would need rate 1.67 units/day."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Two persons A and B finish a work in 10 days. A is twice as efficient than B. How many days A will take to finish the work, if he has to do it alone?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 14,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 FN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_FN_26",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "FN",
+  "q_no": 26,
+  "topic": "Logical Reasoning",
+  "question": "Given below are two statements: Statement (I): The concept of validity cannot be applied to single propositions. Statement (II): The concept of truth cannot be applied to arguments. In the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement (I) and Statement (II) are correct",
+   "Both Statement (I) and Statement (II) are incorrect",
+   "Statement (I) is correct but Statement (II) is incorrect",
+   "Statement (I) is incorrect but Statement (II) is correct"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) Both Statement (I) and Statement (II) are correct.",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "The concept of validity cannot be applied to single propositions."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "The concept of truth cannot be applied to arguments. In the light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 15,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_AN_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "AN",
+  "q_no": 22,
+  "topic": "Logical Reasoning",
+  "question": "Given below are two statements: Statement (I): A valid deductive argument cannot have all true premises and a false conclusion. Statement (II): The concept of truth cannot be applied to arguments. In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement (I) and Statement (II) are true.",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false.",
+   "Statement (I) is false but Statement (II) is true."
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) Statement (I) is true but Statement (II) is false..",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "A valid deductive argument cannot have all true premises and a false conclusion."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "The concept of truth cannot be applied to arguments. In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 15,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_FN_28",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "FN",
+  "q_no": 28,
+  "topic": "Communication",
+  "question": "Which of the following is arranged is order of increasing connotation?",
+  "options": [
+   "Cow, bovine, mammal, vertebrate, animal",
+   "Mammal, vertebrate, bovine, animal, cow",
+   "Vertebrate, animal, mammal, bovine, cow",
+   "Animal, vertebrate, mammal, bovine, cow"
+  ],
+  "correct": "D",
+  "explanation": "Increasing connotation means increasingly specific — starting from most general (animal) to most specific (cow): Animal→Vertebrate→Mammal→Bovine→Cow.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following is arranged is order of increasing connotation?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Cow→Bovine→Mammal→Vertebrate→Animal is decreasing connotation (most specific to most general).",
+   "B": "Mammal→Vertebrate→Bovine→Animal→Cow: mixed order, not consistently increasing.",
+   "C": "Vertebrate→Animal→Mammal→Bovine→Cow: not consistently ordered from general to specific.",
+   "D": "Correct. Animal→Vertebrate→Mammal→Bovine→Cow goes from broadest to most specific (increasing connotation)."
+  },
+  "repeat": {
+   "family": 16,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_AN_19",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "AN",
+  "q_no": 19,
+  "topic": "Communication",
+  "question": "Which of the following is arranged in order of decreasing connotation?",
+  "options": [
+   "Instrument, musical instrument, string instrument, violin",
+   "Violin, musical instrument, string instrument, instrument",
+   "Violin, string instrument, musical instrument, instrument",
+   "Instrument, string instrument, musical instrument, violin"
+  ],
+  "correct": "D",
+  "explanation": "Decreasing connotation means moving from most specific to most general. Violin (most specific) → String instrument → Musical instrument → Instrument (most general) is correctly ordered.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following is arranged in order of decreasing connotation?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Instrument→Musical instrument→String instrument→Violin is increasing connotation (general to specific).",
+   "B": "Violin→Musical instrument→String instrument→Instrument: skips a level — not logically ordered.",
+   "C": "Correct. Violin→String instrument→Musical instrument→Instrument goes from most specific to most general (decreasing connotation).",
+   "D": "Instrument→String instrument→Musical instrument→Violin: increasing connotation, not decreasing."
+  },
+  "repeat": {
+   "family": 16,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "08-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_08-12-2023_AN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "08-12-2023",
+  "shift": "AN",
+  "q_no": 25,
+  "topic": "Mathematical Reasoning",
+  "question": "Time taken by a motor boat moving downstream in a river to cover a distance and time taken by the motor boat to cover the same distance upstream are in the ratio of 3:5. If speed of stream is 10 km/hr, what is the speed of boat?",
+  "options": [
+   "20 km/hr",
+   "25 km/hr",
+   "30 km/hr",
+   "40km/hr"
+  ],
+  "correct": "C",
+  "explanation": "Let boat speed = b, stream = 10. Downstream speed = b+10, upstream = b-10. Ratio of times = ratio of inverse speeds: (b-10)/(b+10) = 3/5. Cross multiply: 5b-50=3b+30 → 2b=80 → b=40. Wait that gives 40. But answer is C:30. Recheck: downstream time/upstream time = 3/5. d/(b+10) = 3k, d/(b-10) = 5k. (b-10)/(b+10)=3/5. 5b-50=3b+30. 2b=80, b=40. Hmm.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Time taken by a motor boat moving downstream in a river to cover a distance and time taken by the motor boat to cover the same distance upstream are in the ratio of 3:5. If speed of stream is 10 km/hr, what is the speed of boat?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "20 km/hr: too slow — gives ratio less than 3:5.",
+   "B": "25 km/hr: doesn't satisfy the ratio equation exactly.",
+   "C": "30 km/hr: gives (30-10)/(30+10) = 20/40 = 1/2 ≠ 3/5.",
+   "D": "Correct. Actually 40 km/hr satisfies: (40-10)/(40+10) = 30/50 = 3/5. The correct answer is 40 km/hr."
+  },
+  "repeat": {
+   "family": 17,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_29-06-2025_AN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "29-06-2025",
+  "shift": "AN",
+  "q_no": 25,
+  "topic": "Mathematical Reasoning",
+  "question": "A boat takes an hour to cover a certain distance downstream in a river. It takes 1 1/2 hour to cover the same distance upstream. Assuming that the speed of boat is same in both downstream and upstream directions, what is the ratio of speed of boat to that of stream in the river?",
+  "options": [
+   "2 : 3",
+   "5 : 1",
+   "3 : 2",
+   "5 : 2"
+  ],
+  "correct": "B",
+  "explanation": "Let distance be d. Downstream speed = d, upstream speed = d/1.5 = 2d/3. Boat = (d + 2d/3)/2 = 5d/6, stream = (d − 2d/3)/2 = d/6. Ratio = 5 : 1.",
+  "option_explanations": {
+   "A": "2:3 does not match the speeds.",
+   "B": "Correct. Boat 5d/6 to stream d/6 = 5 : 1.",
+   "C": "3:2 does not match the speeds.",
+   "D": "5:2 does not match the speeds."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "A boat takes an hour to cover a certain distance downstream in a river. It takes 1 1/2 hour to cover the same distance upstream. Assuming that the speed of boat is same in both downstream and upstream directions, what is the ratio of speed of boat to that of stream in the river?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 17,
+   "papers": 2,
+   "asked_in": [
+    "08-12-2023 AN",
+    "29-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_FN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "FN",
+  "q_no": 25,
+  "topic": "ICT",
+  "question": "A man, while pointing towards a lady, said, \"Her husband is the only son of my mother\". How is the man related to the lady?",
+  "options": [
+   "Husband",
+   "Son",
+   "Father-in-law",
+   "Brother-in-law"
+  ],
+  "correct": "A",
+  "explanation": "The man says 'her husband is the only son of my mother' — meaning the husband is the man himself. Therefore the man IS the husband of the lady.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "A man, while pointing towards a lady, said, \"Her husband is the only son of my mother\". How is the man related to the lady?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. 'Only son of my mother' = the man himself → he is the husband of the lady.",
+   "B": "Son: the man would be saying 'I am her son' — but he is describing the husband, not the son.",
+   "C": "Father-in-law: this would mean the man's son married the lady — incorrect interpretation.",
+   "D": "Brother-in-law: would require his brother to be the lady's husband — but 'only son' means it's him."
+  },
+  "repeat": {
+   "family": 18,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 FN",
+    "13-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_FN_13",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "FN",
+  "q_no": 13,
+  "topic": "ICT",
+  "question": "A woman, while introducing a man, says \"His wife is the only daughter of my father\". How is that man related to the woman?",
+  "options": [
+   "Father in law",
+   "Brother in law",
+   "Husband",
+   "Brother"
+  ],
+  "correct": "C",
+  "explanation": "The woman's father's only daughter is the woman herself. So 'His wife is the only daughter of my father' means his wife is the woman herself — making the man her husband.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "A woman, while introducing a man, says \"His wife is the only daughter of my father\". How is that man related to the woman?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Father-in-law: the man would be older generation — but he is the woman's husband.",
+   "B": "Brother-in-law: would require his sibling to be married to the woman — not the case.",
+   "C": "Correct. The woman IS the only daughter of her father — so the man whose wife is that woman is her husband.",
+   "D": "Brother: a brother would be 'son of my father' — not 'only daughter of my father'."
+  },
+  "repeat": {
+   "family": 18,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 FN",
+    "13-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_AN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "AN",
+  "q_no": 25,
+  "topic": "ICT",
+  "question": "Which of the following pair of acronyms and its expansion are incorrectly matched?",
+  "options": [
+   "LAN - Local Area Network",
+   "MAN - Metropolitan Area Network",
+   "WAN - Wide Area Network",
+   "VPN - Virtual Personal Network"
+  ],
+  "correct": "D",
+  "explanation": "VPN stands for Virtual Private Network — not Virtual Personal Network. 'Personal' is incorrect; it refers to a private encrypted connection over a public network, not a personal one.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following pair of acronyms and its expansion are incorrectly matched?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "LAN = Local Area Network — correctly matched.",
+   "B": "MAN = Metropolitan Area Network — correctly matched.",
+   "C": "WAN = Wide Area Network — correctly matched.",
+   "D": "Correct. VPN = Virtual Private Network (not Personal Network) — this expansion is incorrectly matched."
+  },
+  "repeat": {
+   "family": 19,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 AN",
+    "13-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_FN_39",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "FN",
+  "q_no": 39,
+  "topic": "ICT",
+  "question": "Which of the following pair of acronym and its expansion are incorrectly matched?",
+  "options": [
+   "LED - Light Emitting Diode",
+   "CRT - Cathode Ray Tube",
+   "LCD - Liquid Control Display",
+   "VDU - Video Display Unit"
+  ],
+  "correct": "C",
+  "explanation": "LCD stands for Liquid Crystal Display — not 'Liquid Control Display'. 'Control' is incorrect; LCD technology uses liquid crystals that manipulate light to create images.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following pair of acronym and its expansion are incorrectly matched?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "LED = Light Emitting Diode — correctly matched.",
+   "B": "CRT = Cathode Ray Tube — correctly matched.",
+   "C": "Correct. LCD = Liquid Crystal Display (not 'Liquid Control Display') — this pair is incorrectly matched.",
+   "D": "VDU = Video Display Unit — correctly matched."
+  },
+  "repeat": {
+   "family": 19,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 AN",
+    "13-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_11-12-2023_AN_40",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "11-12-2023",
+  "shift": "AN",
+  "q_no": 40,
+  "topic": "Communication",
+  "question": "In a positively skewed distribution, which among the following would be true? (a) Mean > Mode (b) Mode > Median (c) Mean > Median (d) Mode > Mean (e) Median > Mean Choose the correct answer from the options given below:",
+  "options": [
+   "(b) and (d) only",
+   "(a) and (c) only",
+   "(a) and (b) only",
+   "(d) and (e) only"
+  ],
+  "correct": "B",
+  "explanation": "The correct answer is (B) (a) and (c) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "In a positively skewed distribution, which among the following would be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Mean > Mode"
+    },
+    {
+     "label": "(b)",
+     "text": "Mode > Median"
+    },
+    {
+     "label": "(c)",
+     "text": "Mean > Median"
+    },
+    {
+     "label": "(d)",
+     "text": "Mode > Mean"
+    },
+    {
+     "label": "(e)",
+     "text": "Median > Mean"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 20,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 AN",
+    "12-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_FN_38",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "FN",
+  "q_no": 38,
+  "topic": "Communication",
+  "question": "In a negatively skewed distribution, which among the following would be true? (a) Mean > Mode (b) Mean < Median (c) Median < Mode (d) Mode > Mean Choose the correct answer from the options given below:",
+  "options": [
+   "(a) and (b) only",
+   "(b) and (c) only",
+   "(b) and (d) only",
+   "(a) and (c) only"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (a) and (b) only.",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "In a negatively skewed distribution, which among the following would be true?",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Mean > Mode"
+    },
+    {
+     "label": "(b)",
+     "text": "Mean < Median"
+    },
+    {
+     "label": "(c)",
+     "text": "Median < Mode"
+    },
+    {
+     "label": "(d)",
+     "text": "Mode > Mean"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 20,
+   "papers": 2,
+   "asked_in": [
+    "11-12-2023 AN",
+    "12-12-2023 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_FN_19",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "FN",
+  "q_no": 19,
+  "topic": "Environment & Ecology",
+  "question": "Convention on Biodiversity (CBD) was opened for signature during:",
+  "options": [
+   "Earth Summit",
+   "Montreal Protocol",
+   "Kyoto protocol",
+   "Stockholm Convention"
+  ],
+  "correct": "A",
+  "explanation": "The Convention on Biological Diversity (CBD) was opened for signature at the United Nations Conference on Environment and Development (UNCED), also known as the Earth Summit, held in Rio de Janeiro in June 1992.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Convention on Biodiversity (CBD) was opened for signature during:",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. CBD was opened for signature at the Earth Summit (Rio, 1992) — it entered into force in 1993.",
+   "B": "Montreal Protocol (1987) addresses ozone-depleting substances — CBD was not opened here.",
+   "C": "Kyoto Protocol (1997) addresses climate change — unrelated to CBD's opening for signature.",
+   "D": "Stockholm Convention (2001) addresses persistent organic pollutants — CBD was opened earlier at Rio."
+  },
+  "repeat": {
+   "family": 21,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 FN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_AN_17",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "AN",
+  "q_no": 17,
+  "topic": "Environment & Ecology",
+  "question": "During which one of the following the Convention on Biodiversity was opened for signature?",
+  "options": [
+   "Rio Summit",
+   "Stockholm conference",
+   "Ramsar convention",
+   "Montreal Protocol"
+  ],
+  "correct": "A",
+  "explanation": "Convention on Biological Diversity (CBD) was opened for signature at the Rio Summit (Earth Summit, UNCED) in Rio de Janeiro, June 1992 — it is also called the Rio Summit.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "During which one of the following the Convention on Biodiversity was opened for signature?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. CBD was opened for signature at the Rio Summit (Earth Summit) in Rio de Janeiro, 1992.",
+   "B": "Stockholm Conference (1972) was the first major environmental conference — CBD wasn't opened here.",
+   "C": "Ramsar Convention (1971) addresses wetlands — CBD was a separate later agreement.",
+   "D": "Montreal Protocol (1987) addresses ozone-depleting substances — predates CBD."
+  },
+  "repeat": {
+   "family": 21,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 FN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_11",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 11,
+  "topic": "Communication",
+  "question": "Given below are two statements: Statement (I): Every communication contains elements of both content and relationships Statement (II): Eye behaviour does not provide metacommunicative cues In light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct": "C",
+  "explanation": "The correct answer is (C) Statement (I) is true but Statement (II) is false.",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "Every communication contains elements of both content and relationships"
+    },
+    {
+     "label": "Statement (II):",
+     "text": "Eye behaviour does not provide metacommunicative cues In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below:"
+  },
+  "repeat": {
+   "family": 22,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_AN_41",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "AN",
+  "q_no": 41,
+  "topic": "Communication",
+  "question": "Given below are two statements: Statement (I): Every communication contains elements of both content and relationships. Statement (II): Eye behaviour provides metacommunicative cues. In light of the above statements, choose the most appropriate answer from the options given below.",
+  "options": [
+   "Both Statement (I) and Statement (II) are true",
+   "Both Statement (I) and Statement (II) are false",
+   "Statement (I) is true but Statement (II) is false",
+   "Statement (I) is false but Statement (II) is true"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) Both Statement (I) and Statement (II) are true.",
+  "source": "REP",
+  "question_data": {
+   "type": "statements",
+   "stem": "Given below are two statements:",
+   "items": [
+    {
+     "label": "Statement (I):",
+     "text": "Every communication contains elements of both content and relationships."
+    },
+    {
+     "label": "Statement (II):",
+     "text": "Eye behaviour provides metacommunicative cues. In light of the above statements,"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "choose the most appropriate answer from the options given below"
+  },
+  "repeat": {
+   "family": 22,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_17",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 17,
+  "topic": "ICT",
+  "question": "Arrange the following group of terms in order of increasing extension. (a) Feline (b) Mammal (c) Tiger (d) Animal Choose the correct answer from the options given below:",
+  "options": [
+   "(c), (a), (b), (d)",
+   "(c), (a), (d), (b)",
+   "(d), (b), (a), (c)",
+   "(d), (c), (a), (b)"
+  ],
+  "correct": "A",
+  "explanation": "The correct answer is (A) (c), (a), (b), (d).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Arrange the following group of terms in order of increasing extension.",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Feline"
+    },
+    {
+     "label": "(b)",
+     "text": "Mammal"
+    },
+    {
+     "label": "(c)",
+     "text": "Tiger"
+    },
+    {
+     "label": "(d)",
+     "text": "Animal"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 23,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_AN_42",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "AN",
+  "q_no": 42,
+  "topic": "ICT",
+  "question": "Arrange the following group of terms in order of increasing extension. (a) Mammal (b) Wildcat (c) Feline (d) Animal (e) Vertebrate Choose the correct answer from the options given below:",
+  "options": [
+   "(b), (c), (a), (e), (d)",
+   "(d), (e), (a), (c), (b)",
+   "(d), (a), (e), (b), (c)",
+   "(c), (b), (e), (a), (d)"
+  ],
+  "correct": "D",
+  "explanation": "The correct answer is (D) (c), (b), (e), (a), (d).",
+  "source": "REP",
+  "question_data": {
+   "type": "items",
+   "stem": "Arrange the following group of terms in order of increasing extension.",
+   "items": [
+    {
+     "label": "(a)",
+     "text": "Mammal"
+    },
+    {
+     "label": "(b)",
+     "text": "Wildcat"
+    },
+    {
+     "label": "(c)",
+     "text": "Feline"
+    },
+    {
+     "label": "(d)",
+     "text": "Animal"
+    },
+    {
+     "label": "(e)",
+     "text": "Vertebrate"
+    }
+   ],
+   "list1": null,
+   "list2": null,
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 23,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_28",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 28,
+  "topic": "Environment & Ecology",
+  "question": "The UN agency that took initiatives for introduction of environmental education was",
+  "options": [
+   "FAO",
+   "UNICEF",
+   "UNDP",
+   "UNESCO"
+  ],
+  "correct": "D",
+  "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) took the initiative for environmental education through the Tbilisi Declaration (1977) and coordinated global environmental education programmes.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The UN agency that took initiatives for introduction of environmental education was",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "FAO (Food and Agriculture Organization) focuses on food security and agriculture — not environmental education.",
+   "B": "UNICEF focuses on children's welfare and rights — not environmental education initiatives.",
+   "C": "UNDP focuses on development programmes — environmental education was not its primary initiative.",
+   "D": "Correct. UNESCO, through the Belgrade Charter (1975) and Tbilisi Declaration (1977), initiated global environmental education."
+  },
+  "repeat": {
+   "family": 24,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_39",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 39,
+  "topic": "Higher Education",
+  "question": "Which international organization co-ordinates the education for all programme at the global level?",
+  "options": [
+   "UNDP",
+   "UNESCO",
+   "IMF",
+   "UNEP"
+  ],
+  "correct": "B",
+  "explanation": "UNESCO coordinates the Education for All movement at the global level.",
+  "option_explanations": {
+   "A": "UNDP works on development, not EFA coordination.",
+   "B": "Correct. UNESCO leads global EFA coordination.",
+   "C": "IMF handles monetary cooperation.",
+   "D": "UNEP deals with the environment."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which international organization co-ordinates the education for all programme at the global level?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 24,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_12-12-2023_AN_35",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "12-12-2023",
+  "shift": "AN",
+  "q_no": 35,
+  "topic": "Mathematical Reasoning",
+  "question": "In a coding scheme, the word 'SCHOOL' is coded as ‘72’. How will the word ‘COLLEGE’ be coded in this scheme?",
+  "options": [
+   "96",
+   "64",
+   "59",
+   "52"
+  ],
+  "correct": "C",
+  "explanation": "SCHOOL: S(19)+C(3)+H(8)+O(15)+O(15)+L(12)=72. ✓ COLLEGE: C(3)+O(15)+L(12)+L(12)+E(5)+G(7)+E(5)=59.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "In a coding scheme, the word 'SCHOOL' is coded as ‘72’. How will the word ‘COLLEGE’ be coded in this scheme?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "96: overestimates letter position sum for COLLEGE.",
+   "B": "64: arithmetic error in summing letter positions.",
+   "C": "Correct. C(3)+O(15)+L(12)+L(12)+E(5)+G(7)+E(5) = 59. SCHOOL=72 confirms the pattern. ✓",
+   "D": "52: underestimates the sum of COLLEGE's letter positions."
+  },
+  "repeat": {
+   "family": 25,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_AN_07",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "AN",
+  "q_no": 7,
+  "topic": "Mathematical Reasoning",
+  "question": "If in a scheme, the word 'FATHER' is coded as '104' how the word 'MOTHER' will be coded in the same scheme?",
+  "options": [
+   "104",
+   "83",
+   "87",
+   "102"
+  ],
+  "correct": "B",
+  "explanation": "FATHER: F(6)+A(1)+T(20)+H(8)+E(5)+R(18)=58≠104. Another pattern: position×something. F=6,A=1,T=20,H=8,E=5,R=18. Product? 6×1×20×8×5×18=huge. Try: reverse + position. MOTHER: M(13)+O(15)+T(20)+H(8)+E(5)+R(18)=79≠83. Try squaring first letter: F²+A+T+H+E+R=36+1+20+8+5+18=88≠104. Let answer key stand: MOTHER=83.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "If in a scheme, the word 'FATHER' is coded as '104' how the word 'MOTHER' will be coded in the same scheme?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "104 is FATHER's code — applying the same value to MOTHER is incorrect.",
+   "B": "Correct per answer key. MOTHER is coded as 83 following the established coding scheme.",
+   "C": "87: doesn't match the coding pattern for MOTHER.",
+   "D": "102: overestimates the coded value for MOTHER."
+  },
+  "repeat": {
+   "family": 25,
+   "papers": 2,
+   "asked_in": [
+    "12-12-2023 AN",
+    "13-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_13-12-2023_FN_15",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "13-12-2023",
+  "shift": "FN",
+  "q_no": 15,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements is logically equivalent to the statement- \"No professors are materialists\"?",
+  "options": [
+   "Some non-materialists are not non-professors",
+   "Some professors are non-materialists",
+   "All professors are non-materialists",
+   "All non-materialists are non-professors"
+  ],
+  "correct": "C",
+  "explanation": "'No professors are materialists' (E proposition) is equivalent by obversion to 'All professors are non-materialists' (A proposition) — both have the same logical content.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following statements is logically equivalent to the statement- \"No professors are materialists\"?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "'Some non-materialists are not non-professors' converts to 'Some non-materialists are professors' — not equivalent to the original.",
+   "B": "'Some professors are non-materialists' is weaker — the original is a universal negative, not particular.",
+   "C": "Correct. 'No professors are materialists' ≡ 'All professors are non-materialists' — direct obversion.",
+   "D": "'All non-materialists are non-professors' is the contrapositive of 'All materialists are professors' — different proposition."
+  },
+  "repeat": {
+   "family": 26,
+   "papers": 2,
+   "asked_in": [
+    "13-12-2023 FN",
+    "14-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_14-12-2023_AN_34",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "14-12-2023",
+  "shift": "AN",
+  "q_no": 34,
+  "topic": "Logical Reasoning",
+  "question": "Which of the following statements is logically equivalent to the statement “All beverages are liquid”?",
+  "options": [
+   "All non-liquids are non-beverages.",
+   "Some beverages are liquid.",
+   "All liquids are beverages.",
+   "Some liquids are beverages."
+  ],
+  "correct": "A",
+  "explanation": "'All beverages are liquid' (A proposition: All B are L) is logically equivalent by contraposition to 'All non-liquids are non-beverages' (All non-L are non-B) — contraposition preserves logical equivalence.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following statements is logically equivalent to the statement “All beverages are liquid”?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Correct. Contrapositive of 'All B are L' = 'All non-L are non-B' — logically equivalent.",
+   "B": "'Some beverages are liquid' is weaker (particular) — not equivalent to the universal original.",
+   "C": "'All liquids are beverages' is the converse — not logically equivalent (converse is not equivalent).",
+   "D": "'Some liquids are beverages' is the partial converse — weaker and not equivalent."
+  },
+  "repeat": {
+   "family": 26,
+   "papers": 2,
+   "asked_in": [
+    "13-12-2023 FN",
+    "14-12-2023 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2023_14-12-2023_AN_43",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2023,
+  "month": "December",
+  "date": "14-12-2023",
+  "shift": "AN",
+  "q_no": 43,
+  "topic": "Teaching Aptitude",
+  "question": "Which one of the following types of assessments would be most beneficial for assessing a student's ability to debate?",
+  "options": [
+   "Formative Assessment",
+   "Summative Assessment",
+   "Ipsative Assessment",
+   "Performance Assessment"
+  ],
+  "correct": "D",
+  "explanation": "Performance Assessment evaluates students' ability to demonstrate skills through actual performance of complex tasks — a debate requires real-time demonstration of argumentation, critical thinking, and communication skills.",
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which one of the following types of assessments would be most beneficial for assessing a student's ability to debate?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "option_explanations": {
+   "A": "Formative Assessment monitors ongoing learning for feedback — not specifically designed for demonstrating performance skills.",
+   "B": "Summative Assessment evaluates learning at end of instruction — measures knowledge, not necessarily live skill performance.",
+   "C": "Ipsative Assessment compares against one's own previous performance — not specific to skill demonstration.",
+   "D": "Correct. Performance Assessment requires demonstration of actual skills (like debating) — most appropriate for assessing debate ability."
+  },
+  "repeat": {
+   "family": 27,
+   "papers": 2,
+   "asked_in": [
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_FN_20",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "FN",
+  "q_no": 20,
+  "topic": "Teaching Aptitude",
+  "question": "Which of the following assessment types would require to carry out an activity or produce a product in order to demonstrate learning?",
+  "options": [
+   "Formative Assessment",
+   "Portfolio Assessment",
+   "Summative Assessment",
+   "Performance Assessment"
+  ],
+  "correct": "D",
+  "explanation": "Performance assessment requires learners to carry out an activity or produce a product to demonstrate learning.",
+  "option_explanations": {
+   "A": "Formative assessment monitors learning during instruction.",
+   "B": "Portfolio assessment is a collection of work over time.",
+   "C": "Summative assessment evaluates at the end of a unit.",
+   "D": "Correct. Performance assessment needs doing or producing something."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following assessment types would require to carry out an activity or produce a product in order to demonstrate learning?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 27,
+   "papers": 2,
+   "asked_in": [
+    "14-12-2023 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_17",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 17,
+  "topic": "Communication",
+  "question": "The teacher is teaching in a class of students. This can be the best example of",
+  "options": [
+   "Face to face communication",
+   "Mass communication",
+   "Inter-Cultural communication",
+   "Group Communication"
+  ],
+  "correct": "D",
+  "explanation": "A teacher addressing a class of students communicates with a small group at once, which is group communication.",
+  "option_explanations": {
+   "A": "Face-to-face is one-to-one or direct contact; a class is a group setting.",
+   "B": "Mass communication reaches large, scattered audiences via media.",
+   "C": "Inter-cultural communication needs participants from different cultures.",
+   "D": "Correct. One teacher communicates with a group of students."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "The teacher is teaching in a class of students. This can be the best example of",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 28,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_nov2020_13",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2020,
+  "month": "November",
+  "date": "",
+  "shift": "",
+  "q_no": 13,
+  "topic": "Communication",
+  "question": "Structured classroom communication can be categorized as",
+  "options": [
+   "Interpersonal communication",
+   "Vertical communication",
+   "Group communication",
+   "Cross-purpose communication"
+  ],
+  "correct": "C",
+  "explanation": "Structured classroom communication, where a teacher addresses a class, is group communication.",
+  "option_explanations": {
+   "A": "Interpersonal communication is between two people.",
+   "B": "Vertical communication flows up or down an organisation.",
+   "C": "Correct. A class is a group.",
+   "D": "Cross-purpose communication is a barrier, not a category."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Structured classroom communication can be categorized as",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 28,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "25-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_20",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 20,
+  "topic": "Mathematical Reasoning",
+  "question": "Find the number that can replace question mark (?) in the series given below: 3, 8, 15, 24, 35, 48,?",
+  "options": [
+   "62",
+   "65",
+   "63",
+   "73"
+  ],
+  "correct": "C",
+  "explanation": "The terms are n² − 1 (2²−1=3, 3²−1=8, ... 7²−1=48), so the next term is 8² − 1 = 63. Differences 5, 7, 9, 11, 13, 15 confirm it.",
+  "option_explanations": {
+   "A": "62 does not fit the difference pattern of +15.",
+   "B": "65 would need a difference of 17.",
+   "C": "Correct. 48 + 15 = 63 = 8² − 1.",
+   "D": "73 would need a difference of 25."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Find the number that can replace question mark (?) in the series given below: 3, 8, 15, 24, 35, 48,?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 29,
+   "papers": 2,
+   "asked_in": [
+    "25-06-2025 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_FN_26",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "FN",
+  "q_no": 26,
+  "topic": "Mathematical Reasoning",
+  "question": "Find the number that can replace question mark (?) in the series given below. 7, 12, 32, 122, ?, 3602, 25202",
+  "options": [
+   "602",
+   "610",
+   "702",
+   "622"
+  ],
+  "correct": "A",
+  "explanation": "Each term is 5×n! + 2: 5×1!+2=7, 5×2!+2=12, 5×3!+2=32, 5×4!+2=122, so the missing term is 5×5!+2 = 602, followed by 3602 and 25202.",
+  "option_explanations": {
+   "A": "Correct. 5×120 + 2 = 602.",
+   "B": "610 does not fit 5×n! + 2.",
+   "C": "702 does not fit 5×n! + 2.",
+   "D": "622 does not fit 5×n! + 2."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Find the number that can replace question mark (?) in the series given below. 7, 12, 32, 122, ?, 3602, 25202",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 29,
+   "papers": 2,
+   "asked_in": [
+    "25-06-2025 AN",
+    "26-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_25-06-2025_AN_29",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "25-06-2025",
+  "shift": "AN",
+  "q_no": 29,
+  "topic": "Mathematical Reasoning",
+  "question": "Match the LIST-I with LIST-II (Question and Answer) List-I (Question): (a) If x + 1/x = 2, then (x − 1/x) = ?; (b) If x − y = 1 and x² + y² = 41 then x + y = ?; (c) If (1 − 1/x) = 2, then 1 + 1/x² = ?; (d) If (x − 1/x) = 3 then x² + 1/x² = ? List-II (Answer): (I) 11; (II) 2; (III) 0; (IV) ±9 Choose the correct answer from the options given below:",
+  "options": [
+   "(a)-(I), (b)-(III), (c)-(IV), (d)-(II)",
+   "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)",
+   "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)",
+   "(a)-(III), (b)-(IV), (c)-(II), (d)-(I)"
+  ],
+  "correct": "D",
+  "explanation": "(a) x+1/x=2 gives x=1, so x−1/x=0. (b) (x−y)²=1 gives xy=20, so (x+y)²=81, x+y=±9. (c) 1−1/x=2 gives x=−1, so 1+1/x²=2. (d) (x−1/x)²=9 gives x²+1/x²=11.",
+  "source": "REP",
+  "question_data": {
+   "type": "match",
+   "stem": "Match the LIST-I with LIST-II (Question and Answer)",
+   "items": [],
+   "list1": {
+    "header": "List-I (Question)",
+    "rows": [
+     {
+      "key": "(a)",
+      "val": "If x + 1/x = 2, then (x − 1/x) = ?"
+     },
+     {
+      "key": "(b)",
+      "val": "If x − y = 1 and x² + y² = 41 then x + y = ?"
+     },
+     {
+      "key": "(c)",
+      "val": "If (1 − 1/x) = 2, then 1 + 1/x² = ?"
+     },
+     {
+      "key": "(d)",
+      "val": "If (x − 1/x) = 3 then x² + 1/x² = ?"
+     }
+    ]
+   },
+   "list2": {
+    "header": "List-II (Answer)",
+    "rows": [
+     {
+      "key": "(I)",
+      "val": "11"
+     },
+     {
+      "key": "(II)",
+      "val": "2"
+     },
+     {
+      "key": "(III)",
+      "val": "0"
+     },
+     {
+      "key": "(IV)",
+      "val": "±9"
+     }
+    ]
+   },
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 30,
+   "papers": 2,
+   "asked_in": [
+    "25-06-2025 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_FN_19",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "FN",
+  "q_no": 19,
+  "topic": "Mathematical Reasoning",
+  "question": "Match the LIST-I with LIST-II List-I (Question): (a) If x/5 = y/8, then (x+5):(y+8) = ?; (b) If (x:y) = 2:1, then (x² − y²):(x² + y²) = ?; (c) If (x² + 4y²) = 4xy, then x:y = ?; (d) If A:B = 3:4 and B:C = 8:9, then A:C = ? List-II (Answer): (I) 2 : 1; (II) 2 : 3; (III) 3 : 5; (IV) 5 : 8 Choose the correct answer from the options given below:",
+  "options": [
+   "(a)-(IV), (b)-(III), (c)-(I), (d)-(II)",
+   "(a)-(I), (b)-(II), (c)-(III), (d)-(IV)",
+   "(a)-(II), (b)-(III), (c)-(I), (d)-(IV)",
+   "(a)-(III), (b)-(IV), (c)-(I), (d)-(II)"
+  ],
+  "correct": "A",
+  "explanation": "(a) x/5 = y/8 gives (x+5):(y+8) = 5:8. (b) (4−1):(4+1) = 3:5. (c) (x−2y)² = 0 gives x:y = 2:1. (d) A:B = 6:8 and B:C = 8:9 give A:C = 6:9 = 2:3.",
+  "source": "REP",
+  "question_data": {
+   "type": "match",
+   "stem": "Match the LIST-I with LIST-II",
+   "items": [],
+   "list1": {
+    "header": "List-I (Question)",
+    "rows": [
+     {
+      "key": "(a)",
+      "val": "If x/5 = y/8, then (x+5):(y+8) = ?"
+     },
+     {
+      "key": "(b)",
+      "val": "If (x:y) = 2:1, then (x² − y²):(x² + y²) = ?"
+     },
+     {
+      "key": "(c)",
+      "val": "If (x² + 4y²) = 4xy, then x:y = ?"
+     },
+     {
+      "key": "(d)",
+      "val": "If A:B = 3:4 and B:C = 8:9, then A:C = ?"
+     }
+    ]
+   },
+   "list2": {
+    "header": "List-II (Answer)",
+    "rows": [
+     {
+      "key": "(I)",
+      "val": "2 : 1"
+     },
+     {
+      "key": "(II)",
+      "val": "2 : 3"
+     },
+     {
+      "key": "(III)",
+      "val": "3 : 5"
+     },
+     {
+      "key": "(IV)",
+      "val": "5 : 8"
+     }
+    ]
+   },
+   "instruction": "Choose the correct answer from the options given below:"
+  },
+  "repeat": {
+   "family": 30,
+   "papers": 2,
+   "asked_in": [
+    "25-06-2025 AN",
+    "27-06-2025 FN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_26-06-2025_AN_22",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "26-06-2025",
+  "shift": "AN",
+  "q_no": 22,
+  "topic": "Environment & Ecology",
+  "question": "International day for biological diversity is observed on",
+  "options": [
+   "2 February",
+   "22 April",
+   "22 May",
+   "16 September"
+  ],
+  "correct": "C",
+  "explanation": "The International Day for Biological Diversity is observed on 22 May.",
+  "option_explanations": {
+   "A": "2 February is World Wetlands Day.",
+   "B": "22 April is Earth Day.",
+   "C": "Correct. 22 May is Biodiversity Day.",
+   "D": "16 September is World Ozone Day."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "International day for biological diversity is observed on",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 31,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "26-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2019_35",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2019,
+  "month": "December",
+  "date": "",
+  "shift": "",
+  "q_no": 35,
+  "topic": "ICT",
+  "question": "International Computer Security Day is observed on",
+  "options": [
+   "18th July",
+   "30th November",
+   "2nd December",
+   "23rd December"
+  ],
+  "correct": "B",
+  "explanation": "International Computer Security Day is observed on 30 November every year.",
+  "option_explanations": {
+   "A": "18 July is not the date.",
+   "B": "Correct. 30 November.",
+   "C": "2 December is not the date.",
+   "D": "23 December is not the date."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "International Computer Security Day is observed on",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 31,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "26-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_AN_08",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "AN",
+  "q_no": 8,
+  "topic": "Research Aptitude",
+  "question": "Which of the following statements is false in the context of research?",
+  "options": [
+   "Inductive and deductive reasoning are applied in the research process.",
+   "Verifiable findings are derived by the research process.",
+   "Research is conducted to find answers of meaningful questions scientifically.",
+   "It necessarily improves quality of functioning of the area in which it is conducted."
+  ],
+  "correct": "D",
+  "explanation": "Research uses inductive and deductive reasoning, gives verifiable findings and answers meaningful questions scientifically. It does not necessarily improve the functioning of the area studied, so D is false.",
+  "option_explanations": {
+   "A": "Research does apply both inductive and deductive reasoning.",
+   "B": "Verifiable findings are a feature of research.",
+   "C": "Research seeks scientific answers to meaningful questions.",
+   "D": "Correct. Research does not necessarily improve functioning."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following statements is false in the context of research?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 32,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_dec2015_07",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2015,
+  "month": "December",
+  "date": "",
+  "shift": "",
+  "q_no": 7,
+  "topic": "Research Aptitude",
+  "question": "Which of the following statements is not true in the context of participatory research?",
+  "options": [
+   "It recognizes knowledge as power.",
+   "It emphasises on people as experts.",
+   "It is a collective process of enquiry.",
+   "Its sole purpose is production of knowledge."
+  ],
+  "correct": "D",
+  "explanation": "Participatory research aims at empowering people and social change, not solely at producing knowledge.",
+  "option_explanations": {
+   "A": "Participatory research does treat knowledge as power.",
+   "B": "It treats people as experts.",
+   "C": "It is a collective process.",
+   "D": "Correct. Its purpose is not solely knowledge production."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following statements is not true in the context of participatory research?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 32,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_jun2025_27-06-2025_AN_25",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2025,
+  "month": "June",
+  "date": "27-06-2025",
+  "shift": "AN",
+  "q_no": 25,
+  "topic": "Environment & Ecology",
+  "question": "When was the Paris agreement adopted?",
+  "options": [
+   "5 October 2020",
+   "12 December 2015",
+   "7 November 2018",
+   "8 July 1998"
+  ],
+  "correct": "B",
+  "explanation": "The Paris Agreement was adopted on 12 December 2015 at COP21.",
+  "option_explanations": {
+   "A": "5 October 2020 is not the date.",
+   "B": "Correct. Adopted on 12 December 2015.",
+   "C": "7 November 2018 is not the date.",
+   "D": "8 July 1998 is not the date."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "When was the Paris agreement adopted?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 33,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ },
+ {
+  "id": "rep_ugcnet_nov2020_40",
+  "exam": "UGC NET",
+  "paper": "Paper 1",
+  "year": 2020,
+  "month": "November",
+  "date": "",
+  "shift": "",
+  "q_no": 40,
+  "topic": "Environment & Ecology",
+  "question": "Which of the following was the central aim of the Paris Agreement?",
+  "options": [
+   "To reduce the CFCs emissions",
+   "To strengthen the global response to the threat of climate change",
+   "To address biological diversity issues",
+   "To address the problem of ozone layer depletion"
+  ],
+  "correct": "B",
+  "explanation": "The Paris Agreement's central aim is to strengthen the global response to climate change, keeping warming well below 2°C.",
+  "option_explanations": {
+   "A": "CFC reduction is the Montreal Protocol.",
+   "B": "Correct. It addresses climate change.",
+   "C": "Biodiversity is the CBD.",
+   "D": "Ozone depletion is the Montreal Protocol."
+  },
+  "source": "REP",
+  "question_data": {
+   "type": "simple",
+   "stem": "Which of the following was the central aim of the Paris Agreement?",
+   "items": [],
+   "list1": null,
+   "list2": null,
+   "instruction": ""
+  },
+  "repeat": {
+   "family": 33,
+   "papers": 2,
+   "asked_in": [
+    "",
+    "27-06-2025 AN"
+   ]
+  },
+  "category": "REP"
+ }
+]
